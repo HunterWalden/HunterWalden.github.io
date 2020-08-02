@@ -6,7 +6,7 @@ driveId: 1Q5Mek8IZv9vCZ0b_FnVbA-8NURUwOTYe/preview
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
-## [Enhancement One: Software Design and Engineering](EnhancementOne/BidDatabase)
+## [Enhancement One: Software Design and Engineering](https://github.com/HunterWalden/HunterWalden.github.io/tree/master/EnhancementOne/BidDatabase)
 
 
 This artifact is a C++ project from my Data Structures class back in my third term of 2019. It is a part of a collection of programs I created for my final project, all of which had similar functionality, but used different data types and algorithms. This specific code reads a .csv file full of data on different bids and adds them to a binary search tree. Once the tree is populated, the user can display all the bids, search for a bid, or remove a bid based on the bid ID. 
