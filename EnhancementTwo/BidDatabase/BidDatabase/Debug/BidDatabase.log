@@ -1,0 +1,8 @@
+﻿  Functions.cpp
+  main.cpp
+  UserDBHandler.cpp
+c:\users\light\documents\school\snhu\2020\term4\capstone\biddatabase\biddatabase\source\userdbhandler.cpp(48): warning C4551: function call missing argument list
+  Generating Code...
+c:\users\light\documents\school\snhu\2020\term4\capstone\biddatabase\biddatabase\source\userdbhandler.cpp(66): warning C4715: 'UserDBHandler::addUser': not all control paths return a value
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  BidDatabase.vcxproj -> C:\Users\light\Documents\School\SNHU\2020\Term4\Capstone\BidDatabase\Debug\BidDatabase.exe
