@@ -5,5 +5,5 @@
     <br /><br />
     I chose a project from my Data Structures and Algorithms class that read a .csv file containing bids on various items. I enhanced the project by reorganizing the code into proper header and cpp files, adding new functionality, and converting the .csv storage to an SQLite database.
     <br /><br />
-    More information on my enhancements, including an initial code review, can be found at <a href="http://hunterwaldencapstone.github.io/">HunterWaldenCapstone.github.io</a>
+    More information on my enhancements, including an initial code review, can be found at <a href="https://hunterwalden.github.io/SNHUCapstone">the GitHub Pages website</a>.
   </p>
